@@ -1,8 +1,6 @@
 # Overview
 
-These are notes I compiled while studying for the Magento Certified Developer Exam.
-
-There will be not much updates to these notes but if you spot anything that is wrong or misspelled or if you feel you can contribute please make a pull request and I will review the commit.
+Magento 2 Certified Professional Developer notes
 
 
 # 1. Overview of the Exam
@@ -19,49 +17,17 @@ There will be not much updates to these notes but if you spot anything that is w
 10. Advanced                13%
 
 
-### 1.2 Structure of the Exam
+### 1.2 Magento 2 Certified Professional Developer
 
-- 72 Questions
-- 70 Marked
-- 15 Unmarked
-- 37 Pass Rate
-
-**Note:** Magento states there are 85 questions and 70 marked but when I undertook the exam it was 72 questions with 70 marked.
++ 60 Multiple Choice items
++ 90 minutes to complete the exam
++ Magento Open Source (2.2) and Magento Commerce (2.2)
++ All exams are administered by Kryterion - Academy of Networking LANIT
 
 
 # 2. Resources
 
-## 2.1. Books
-
-- No Frills Magento Layout by Alan Storm [http://store.pulsestorm.net/products/no-frills-magento-layout](http://store.pulsestorm.net/products/no-frills-magento-layout)
-- Grokking Book - Book 1: Basics and Request Flow by Vinai Kopp and Ben Marks [https://shop.vinaikopp.com/grokking-magento/](https://shop.vinaikopp.com/grokking-magento/#!/home)
-- Magento Best Practices Handbook by Alessandro Ronchi [https://leanpub.com/magebp](https://leanpub.com/magebp)
-
-## 2.2. Online Resources
-
-- Mage Study Guide by Meanbee [http://magestudyguide.com/](http://magestudyguide.com/)
-
-- Belvg Blog [http://blog.belvg.com/category/magento-news/developer-certification](http://blog.belvg.com/category/magento-news/developer-certification)
-- Mage Cert [http://magecert.com/](http://magecert.com/)
-- Quizlet Flash Cards [https://quizlet.com/20443995/flashcards](https://quizlet.com/20443995/flashcards)
-- Magentools Online Quiz [http://magento-quiz.magestore.com/](http://magento-quiz.magestore.com/)
-- Magentools Study Answers [http://magentools.com/blog/magento-certification-preparation-study-guide-answers/](http://magentools.com/blog/magento-certification-preparation-study-guide-answers/)
-- Quizlet Study Answers [https://quizlet.com/20443995/magento-certification-preparation-study-guide-answers-flash-cards/](https://quizlet.com/20443995/magento-certification-preparation-study-guide-answers-flash-cards/)
-- Division Lab [http://www.divisionlab.com/solvingmagento/](http://www.divisionlab.com/solvingmagento/)
-
-
-# 3. Study Plan
-
-*This is a rough idea on how to study each chapter*
-
-- Create Answers for each part from:
-
-    - Blogs
-    - Mage Study Guide
-    - Stack Overflow
-
-
-
-- Do Group Guide Exercises
-- Create Dummy Questions and Answers
-- Revise Notes
+## 2.1. Links
++ [Magento 2 Certified Professional Developer](https://u.magento.com/magento-2-certified-professional-developer)
++ [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
++ [Markdown Cheatsheet RU](https://github.com/sandino/Markdown-Cheatsheet)
